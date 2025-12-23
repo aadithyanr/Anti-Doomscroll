@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Mindful Entry",
+    "name": "Anti-Doomscroll",
     "version": "1.3",
     "description": "Intention blocker with History and Session Timer.",
     "content_scripts": [
