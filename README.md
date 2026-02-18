@@ -1,5 +1,7 @@
 # anti doomscroll
 
+https://github.com/user-attachments/assets/eb768718-5202-44cf-a436-7de7dc901408
+
 i made this because i was doomscrolling way too much on x and linkedin. i needed a second to pause and ask "why am i actually opening this?" before getting lost in the feed.
 
 it blocks the site until you type your intention. once you do, you get 5 minutes of access before it asks again.
